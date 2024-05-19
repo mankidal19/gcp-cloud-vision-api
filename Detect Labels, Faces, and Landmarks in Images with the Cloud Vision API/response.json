@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wbm",
+          "description": "Food",
+          "score": 0.986098,
+          "topicality": 0.986098
+        },
+        {
+          "mid": "/m/01wydv",
+          "description": "Beignet",
+          "score": 0.9145899,
+          "topicality": 0.9145899
+        },
+        {
+          "mid": "/m/07xgrh",
+          "description": "Ingredient",
+          "score": 0.8922239,
+          "topicality": 0.8922239
+        },
+        {
+          "mid": "/m/01dk8s",
+          "description": "Powdered sugar",
+          "score": 0.855484,
+          "topicality": 0.855484
+        },
+        {
+          "mid": "/m/0p57p",
+          "description": "Recipe",
+          "score": 0.84780663,
+          "topicality": 0.84780663
+        },
+        {
+          "mid": "/m/01ykh",
+          "description": "Cuisine",
+          "score": 0.83784735,
+          "topicality": 0.83784735
+        },
+        {
+          "mid": "/m/06gd3r",
+          "description": "Angel wings",
+          "score": 0.81572556,
+          "topicality": 0.81572556
+        },
+        {
+          "mid": "/m/02q08p0",
+          "description": "Dish",
+          "score": 0.80321497,
+          "topicality": 0.80321497
+        },
+        {
+          "mid": "/m/052lwg6",
+          "description": "Baked goods",
+          "score": 0.79568243,
+          "topicality": 0.79568243
+        },
+        {
+          "mid": "/m/06x4c",
+          "description": "Sugar",
+          "score": 0.7846247,
+          "topicality": 0.7846247
+        }
+      ]
+    }
+  ]
+}
