@@ -1,0 +1,211 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0105pbj4",
+            "score": 0.9508,
+            "description": "Google Cloud Platform"
+          },
+          {
+            "entityId": "/m/01wydv",
+            "score": 0.7681354,
+            "description": "Beignet"
+          },
+          {
+            "entityId": "/m/0357y_",
+            "score": 0.67890227,
+            "description": "Fried dough"
+          },
+          {
+            "entityId": "/m/01zl9v",
+            "score": 0.6605017,
+            "description": "Zeppola"
+          },
+          {
+            "entityId": "/m/0z5n",
+            "score": 0.5969,
+            "description": "API"
+          },
+          {
+            "entityId": "/m/034yds",
+            "score": 0.55654764,
+            "description": "Funnel cake"
+          },
+          {
+            "entityId": "/m/02y_9m3",
+            "score": 0.5381,
+            "description": "Cloud computing"
+          },
+          {
+            "entityId": "/g/11fmgrs4qm",
+            "score": 0.5233,
+            "description": "Vision AI"
+          },
+          {
+            "entityId": "/m/0jy4k",
+            "score": 0.505,
+            "description": "Doughnut"
+          },
+          {
+            "entityId": "/m/045c7b",
+            "score": 0.4331,
+            "description": "Google LLC"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://camo.githubusercontent.com/00c2b5a3783c4f3cb29cc19563c3b73ed04e5ccb35443b074e7e973f34ee643a/68747470733a2f2f63646e2e7177696b6c6162732e636f6d2f5634506d455549377958644b7079744c4e5271775625324279474871796d2532426668646b745669386e6a34705073253344"
+          },
+          {
+            "url": "https://miro.medium.com/v2/resize:fit:1400/1*JSX2yNORAAOxdGoU17c4_A.png"
+          },
+          {
+            "url": "https://ithelp.ithome.com.tw/upload/images/20200918/20130054kvXhkGvT6n.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://image.slidesharecdn.com/gdgdcdevfest-googlemachinelearningapis-puppiesormuffins-160924211716/85/Machine-learning-with-Google-machine-learning-APIs-Puppy-or-Muffin-47-320.jpg"
+          },
+          {
+            "url": "https://iq.opengenus.org/content/images/2019/11/imagetweet.PNG"
+          },
+          {
+            "url": "https://miro.medium.com/v2/resize:fit:1400/1*mlzV0ZZRvrzFiPf1GY0kYA.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.slideshare.net/slideshow/machine-learning-with-google-machine-learning-apis-puppy-or-muffin/66379884",
+            "pageTitle": "Machine learning with Google machine learning APIs - Puppy or ...",
+            "partialMatchingImages": [
+              {
+                "url": "https://image.slidesharecdn.com/gdgdcdevfest-googlemachinelearningapis-puppiesormuffins-160924211716/85/Machine-learning-with-Google-machine-learning-APIs-Puppy-or-Muffin-47-320.jpg"
+              }
+            ]
+          },
+          {
+            "url": "https://github.com/ratokeshi/Cloud-Shell-GSP037-Detect-Labels-Faces-and-Landmarks-in-Images-with-the-Cloud-Vision-API/blob/master/tutorial.md",
+            "pageTitle": "GSP037 -- Tutorial: Detect Labels, Faces, and Landmarks in Images ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://camo.githubusercontent.com/00c2b5a3783c4f3cb29cc19563c3b73ed04e5ccb35443b074e7e973f34ee643a/68747470733a2f2f63646e2e7177696b6c6162732e636f6d2f5634506d455549377958644b7079744c4e5271775625324279474871796d2532426668646b745669386e6a34705073253344"
+              }
+            ]
+          },
+          {
+            "url": "https://www.cloudskillsboost.google/focuses/1841?locale=de&parent=catalog",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://cdn.qwiklabs.com/V4PmEUI7yXdKpytLNRqwV%2ByGHqym%2BfhdktVi8nj4pPs%3D"
+              }
+            ]
+          },
+          {
+            "url": "https://www.cloudskillsboost.google/focuses/1841?locale=fr_CA&parent=catalog",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://cdn.qwiklabs.com/V4PmEUI7yXdKpytLNRqwV%2ByGHqym%2BfhdktVi8nj4pPs%3D"
+              }
+            ]
+          },
+          {
+            "url": "https://www.cloudskillsboost.google/focuses/1841?locale=uk&parent=catalog",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://cdn.qwiklabs.com/V4PmEUI7yXdKpytLNRqwV%2ByGHqym%2BfhdktVi8nj4pPs%3D"
+              }
+            ]
+          },
+          {
+            "url": "https://www.cloudskillsboost.google/focuses/1841?parent=catalog",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://cdn.qwiklabs.com/V4PmEUI7yXdKpytLNRqwV%2ByGHqym%2BfhdktVi8nj4pPs%3D"
+              }
+            ]
+          },
+          {
+            "url": "https://www.cloudskillsboost.google/focuses/1841?locale=pt_PT&parent=catalog",
+            "pageTitle": "Detect Labels, Faces, and Landmarks in Images with the Cloud ...",
+            "fullMatchingImages": [
+              {
+                "url": "https://cdn.qwiklabs.com/V4PmEUI7yXdKpytLNRqwV%2ByGHqym%2BfhdktVi8nj4pPs%3D"
+              }
+            ]
+          },
+          {
+            "url": "https://www.slideshare.net/bretmc/machine-learning-with-google-machine-learning-apis-puppy-or-muffin",
+            "pageTitle": "Machine learning with Google machine learning APIs - Puppy or ...",
+            "partialMatchingImages": [
+              {
+                "url": "https://image.slidesharecdn.com/gdgdcdevfest-googlemachinelearningapis-puppiesormuffins-160924211716/85/Machine-learning-with-Google-machine-learning-APIs-Puppy-or-Muffin-47-320.jpg"
+              }
+            ]
+          },
+          {
+            "url": "https://www.tenie.co/resources",
+            "pageTitle": "Resources - Tenie",
+            "fullMatchingImages": [
+              {
+                "url": "https://www.tenie.co/api/uploads/2023-10-15T10-07-39.213Z-donuts.png"
+              }
+            ]
+          },
+          {
+            "url": "https://medium.com/chat-gpt-now-writes-all-my-articles/segment-anything-in-python-code-example-included-41692326236d",
+            "pageTitle": "Segment Anything in Python (Code Example included) - Medium",
+            "partialMatchingImages": [
+              {
+                "url": "https://miro.medium.com/v2/resize:fit:1400/1*mlzV0ZZRvrzFiPf1GY0kYA.png"
+              }
+            ]
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3240208935495173913"
+          },
+          {
+            "url": "https://media.timeout.com/images/105391164/750/562/image.jpg"
+          },
+          {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UmEDw1vIvHMNagxlZspJ9A/1000s.jpg"
+          },
+          {
+            "url": "https://img2.10bestmedia.com/Images/Photos/353960/Deep-Fried-Oreos_55_660x440.JPG"
+          },
+          {
+            "url": "https://s.hdnux.com/photos/0/0/0/20736336/1/1200x0.jpg"
+          },
+          {
+            "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3296893000734768492"
+          },
+          {
+            "url": "https://www.oesterreichblick.at/assets/uploads/221202_Kochtipp_Strauben_tv.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/F41UuUUZ4Gw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpYYYjsxa-zn_pPxREo2FX9JI6aw"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/f4rY-V3Atrw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCYRNHnos4Odd03HJZFeqoomOptgg"
+          },
+          {
+            "url": "https://recetasdecocina.elmundo.es/wp-content/uploads/2017/03/receta-rosquillas-caseras.jpg"
+          }
+        ],
+        "bestGuessLabels": [
+          {
+            "label": "snow"
+          }
+        ]
+      }
+    }
+  ]
+}
