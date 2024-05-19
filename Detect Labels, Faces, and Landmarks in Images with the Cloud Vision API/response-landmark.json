@@ -1,0 +1,36 @@
+{
+  "responses": [
+    {
+      "landmarkAnnotations": [
+        {
+          "mid": "/m/0hm_7",
+          "description": "Red Square",
+          "score": 0.76018476,
+          "boundingPoly": {
+            "vertices": [
+              {},
+              {
+                "x": 2877
+              },
+              {
+                "x": 2877,
+                "y": 3596
+              },
+              {
+                "y": 3596
+              }
+            ]
+          },
+          "locations": [
+            {
+              "latLng": {
+                "latitude": 55.753930299999993,
+                "longitude": 37.620794999999994
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

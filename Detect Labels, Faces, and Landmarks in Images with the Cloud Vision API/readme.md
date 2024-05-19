@@ -15,3 +15,9 @@ curl -s -X POST -H "Content-Type: application/json" --data-binary @request-web.j
 ```
 curl -s -X POST -H "Content-Type: application/json" --data-binary @request-face.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-face.json
 ```
+
+# Task 7. Landmark annotation
+
+```
+curl -s -X POST -H "Content-Type: application/json" --data-binary @request-landmark.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-landmark.json
+```
