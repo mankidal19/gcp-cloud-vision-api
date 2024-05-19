@@ -9,3 +9,9 @@ curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json 
 ```
 curl -s -X POST -H "Content-Type: application/json" --data-binary @request-web.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-web.json
 ```
+
+# Task 6. Face detection
+
+```
+curl -s -X POST -H "Content-Type: application/json" --data-binary @request-face.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-face.json
+```

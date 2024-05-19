@@ -1,0 +1,19 @@
+{
+    "requests": [
+        {
+          "image": {
+            "source": {
+                "gcsImageUri": "gs://qwiklabs-gcp-03-25c9bacfbfa1-bucket/selfie.png"
+            }
+          },
+          "features": [
+            {
+              "type": "FACE_DETECTION"
+            },
+            {
+              "type": "LANDMARK_DETECTION"
+            }
+          ]
+        }
+    ]
+  }
