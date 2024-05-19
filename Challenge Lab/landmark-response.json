@@ -1,0 +1,121 @@
+{
+    "responses": [
+      {
+        "landmarkAnnotations": [
+          {
+            "mid": "/m/0418179",
+            "description": "Renaissance Theatre",
+            "score": 0.7391649,
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 500
+                },
+                {
+                  "x": 500,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "locations": [
+              {
+                "latLng": {
+                  "latitude": 48.869064599999994,
+                  "longitude": 2.3563112
+                }
+              }
+            ]
+          },
+          {
+            "mid": "/m/04ldb1c",
+            "description": "Théâtre Du Petit-Saint-Martin",
+            "score": 0.5899029,
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 500
+                },
+                {
+                  "x": 500,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "locations": [
+              {
+                "latLng": {
+                  "latitude": 48.868997099999994,
+                  "longitude": 2.3566512
+                }
+              }
+            ]
+          },
+          {
+            "mid": "/g/1td_9_6c",
+            "description": "Le Plomb Du Cantal Rive Droite",
+            "score": 0.582271,
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 500
+                },
+                {
+                  "x": 500,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "locations": [
+              {
+                "latLng": {
+                  "latitude": 48.869341299999995,
+                  "longitude": 2.3552678
+                }
+              }
+            ]
+          },
+          {
+            "mid": "/g/11c74hpsr5",
+            "description": "St. Martin Comedy",
+            "score": 0.5720716,
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 500
+                },
+                {
+                  "x": 500,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "locations": [
+              {
+                "latLng": {
+                  "latitude": 48.868392899999996,
+                  "longitude": 2.3581323999999997
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

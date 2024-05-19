@@ -1,0 +1,17 @@
+{
+    "requests": [
+        {
+          "image": {
+            "source": {
+                "gcsImageUri": "gs://qwiklabs-gcp-04-0078ad4e38e9-bucket/manif-des-sans-papiers.jpg"
+            }
+          },
+          "features": [
+            {
+              "type": "TEXT_DETECTION",
+              "maxResults": 10
+            }
+          ]
+        }
+    ]
+  }
