@@ -21,3 +21,9 @@ curl -s -X POST -H "Content-Type: application/json" --data-binary @request-face.
 ```
 curl -s -X POST -H "Content-Type: application/json" --data-binary @request-landmark.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-landmark.json
 ```
+
+# Task 8. Object localization
+
+```
+curl -s -X POST -H "Content-Type: application/json" --data-binary @request-object-localization.json  https://vision.googleapis.com/v1/images:annotate?key=${API_KEY} > response-object-localization.json
+```
